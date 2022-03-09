@@ -6,3 +6,9 @@ Example of REST API Documentation using swagger
 ```
 npm install express swagger-autogen swagger-ui-express
 ```
+
+## Author
+Eduardo Diogo Garcia / eduardo.diogo@gmail.com
+
+## License
+MIT License
